@@ -17,8 +17,6 @@ _global_script_class_icons={
 
 config/name="Blue"
 run/main_scene="res://Scenes/Splash Screen.tscn"
-boot_splash/image="res://Images/Logo/Logo Blue.png"
-boot_splash/bg_color=Color( 0.0392157, 0.266667, 0.941176, 1 )
 config/icon="res://icon.png"
 
 [display]
