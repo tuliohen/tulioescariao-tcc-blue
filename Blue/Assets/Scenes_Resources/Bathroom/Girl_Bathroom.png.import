@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Bathroom_Light.png-c5cb610ddb5ba262264cac797aa3d553.stex"
+path="res://.import/Girl_Bathroom.png-890e12f6356261be1d64f85de518f72a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Scenes_Resources/Bathroom/Bathroom_Light.png"
-dest_files=[ "res://.import/Bathroom_Light.png-c5cb610ddb5ba262264cac797aa3d553.stex" ]
+source_file="res://Assets/Scenes_Resources/Bathroom/Girl_Bathroom.png"
+dest_files=[ "res://.import/Girl_Bathroom.png-890e12f6356261be1d64f85de518f72a.stex" ]
 
 [params]
 

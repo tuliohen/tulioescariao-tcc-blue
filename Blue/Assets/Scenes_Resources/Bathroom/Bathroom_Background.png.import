@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Light_Glow.png-61f10123316c6c37932e3d231fa64843.stex"
+path="res://.import/Bathroom_Background.png-40bd088de07718a5bc0a7e622d1ef6ac.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Scenes_Resources/Bathroom/Light_Glow.png"
-dest_files=[ "res://.import/Light_Glow.png-61f10123316c6c37932e3d231fa64843.stex" ]
+source_file="res://Assets/Scenes_Resources/Bathroom/Bathroom_Background.png"
+dest_files=[ "res://.import/Bathroom_Background.png-40bd088de07718a5bc0a7e622d1ef6ac.stex" ]
 
 [params]
 

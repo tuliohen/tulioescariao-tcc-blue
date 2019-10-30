@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Sink_Water.png-c42c5501e6ddc55171041dffd2dc4809.stex"
+path="res://.import/Logo Blue.png-0b53ee85903dc52f65e41b2438f49607.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Scenes_Resources/Bathroom/Sink_Water.png"
-dest_files=[ "res://.import/Sink_Water.png-c42c5501e6ddc55171041dffd2dc4809.stex" ]
+source_file="res://Assets/Logo/Logo Blue.png"
+dest_files=[ "res://.import/Logo Blue.png-0b53ee85903dc52f65e41b2438f49607.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Girl_Bathroom.png-acea6a02ef189b2ad2e8da43255a37b1.stex"
+path="res://.import/Sink_Water.png-4f51e2c4a590e8e445029526257f946d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Scenes_Resources/Bathroom/Girl_Bathroom.png"
-dest_files=[ "res://.import/Girl_Bathroom.png-acea6a02ef189b2ad2e8da43255a37b1.stex" ]
+source_file="res://Assets/Scenes_Resources/Bathroom/Sink_Water.png"
+dest_files=[ "res://.import/Sink_Water.png-4f51e2c4a590e8e445029526257f946d.stex" ]
 
 [params]
 

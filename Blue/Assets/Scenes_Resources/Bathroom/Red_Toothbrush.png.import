@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Bathroom_Background.png-db88561e3ef1f4dda5c175ae1f3bdde9.stex"
+path="res://.import/Red_Toothbrush.png-dfefb9c784a52cfabee413ec9e798030.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Scenes_Resources/Bathroom/Bathroom_Background.png"
-dest_files=[ "res://.import/Bathroom_Background.png-db88561e3ef1f4dda5c175ae1f3bdde9.stex" ]
+source_file="res://Assets/Scenes_Resources/Bathroom/Red_Toothbrush.png"
+dest_files=[ "res://.import/Red_Toothbrush.png-dfefb9c784a52cfabee413ec9e798030.stex" ]
 
 [params]
 

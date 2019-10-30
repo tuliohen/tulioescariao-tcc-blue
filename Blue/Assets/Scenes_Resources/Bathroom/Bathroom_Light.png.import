@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Sink_Bathroom.png-79cf31066ce7f75c5662b049f54e465a.stex"
+path="res://.import/Bathroom_Light.png-19198a4dcf53b2c54c29f99b294d3937.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Scenes_Resources/Bathroom/Sink_Bathroom.png"
-dest_files=[ "res://.import/Sink_Bathroom.png-79cf31066ce7f75c5662b049f54e465a.stex" ]
+source_file="res://Assets/Scenes_Resources/Bathroom/Bathroom_Light.png"
+dest_files=[ "res://.import/Bathroom_Light.png-19198a4dcf53b2c54c29f99b294d3937.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Toothpaste_Default.png-0ceeea7ec57dc8adedd3f316f144b6d9.stex"
+path="res://.import/Glass.png-5229e1f3849952f9c02b3f9df7a4c109.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Scenes_Resources/Bathroom/Toothpaste_Default.png"
-dest_files=[ "res://.import/Toothpaste_Default.png-0ceeea7ec57dc8adedd3f316f144b6d9.stex" ]
+source_file="res://Assets/Scenes_Resources/Bathroom/Glass.png"
+dest_files=[ "res://.import/Glass.png-5229e1f3849952f9c02b3f9df7a4c109.stex" ]
 
 [params]
 
